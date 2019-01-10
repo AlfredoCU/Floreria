@@ -1,0 +1,430 @@
+# depslib dependency file v1.0
+1462573816 source:c:\users\alfredo\desktop\funcional seminario\agent.cpp
+	"agent.h"
+
+1462573816 c:\users\alfredo\desktop\funcional seminario\agent.h
+	<string>
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	"name.h"
+	"time.h"
+	"sllist.h"
+	"client.h"
+
+1462573816 c:\users\alfredo\desktop\funcional seminario\name.h
+	<string>
+	<fstream>
+	<cstdlib>
+	<cstdio>
+	<iostream>
+
+1485502078 c:\users\alfredo\desktop\funcional seminario\time.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+
+1462573816 c:\users\alfredo\desktop\funcional seminario\sllist.h
+	<iostream>
+	<fstream>
+	"listexception.h"
+	"sllist.h"
+	"slnode.h"
+	"client.h"
+
+1463143568 c:\users\alfredo\desktop\funcional seminario\listexception.h
+	<exception>
+	<string>
+
+1485502442 c:\users\alfredo\desktop\funcional seminario\slnode.h
+	"client.h"
+
+1462573816 c:\users\alfredo\desktop\funcional seminario\client.h
+	<string>
+	<cstdio>
+	<cstdlib>
+	<iostream>
+	"time.h"
+
+1462573816 source:c:\users\alfredo\desktop\funcional seminario\agentmenu.cpp
+	"agentmenu.h"
+	"clientmenu.h"
+
+1462573816 c:\users\alfredo\desktop\funcional seminario\agentmenu.h
+	<windows.h>
+	<string>
+	"agent.h"
+	"dllist.h"
+	"time.h"
+	"name.h"
+
+1462573816 c:\users\alfredo\desktop\funcional seminario\dllist.h
+	<iostream>
+	<fstream>
+	"listexception.h"
+	"dlnode.h"
+	"agent.h"
+
+1462573816 c:\users\alfredo\desktop\funcional seminario\dlnode.h
+	"agent.h"
+	"nodeexception.h"
+
+1462573816 c:\users\alfredo\desktop\funcional seminario\nodeexception.h
+	<exception>
+	<string>
+
+1462573816 c:\users\alfredo\desktop\funcional seminario\clientmenu.h
+	"sllist.h"
+	"client.h"
+	"time.h"
+	"slnode.h"
+
+1462573816 source:c:\users\alfredo\desktop\funcional seminario\client.cpp
+	"client.h"
+
+1462573816 source:c:\users\alfredo\desktop\funcional seminario\clientmenu.cpp
+	<cstdlib>
+	<conio.h>
+	"clientmenu.h"
+
+1462573816 source:c:\users\alfredo\desktop\funcional seminario\dllist.cpp
+	"dllist.h"
+
+1462573816 source:c:\users\alfredo\desktop\funcional seminario\dlnode.cpp
+	"dlnode.h"
+
+1462573816 source:c:\users\alfredo\desktop\funcional seminario\main.cpp
+	"dllist.h"
+	"agentmenu.h"
+
+1462573816 source:c:\users\alfredo\desktop\funcional seminario\name.cpp
+	"name.h"
+
+1462573816 source:c:\users\alfredo\desktop\funcional seminario\sllist.cpp
+	"sllist.h"
+
+1486358678 source:c:\users\alfredo\desktop\universidad de guadalajara cucei\ing. computación\semestre 3\seminario de solución de problemas de estructura de datos i (1)\proyecto sspedi\agent.cpp
+	"agent.h"
+
+1486252595 c:\users\alfredo\desktop\universidad de guadalajara cucei\ing. computación\semestre 3\seminario de solución de problemas de estructura de datos i (1)\proyecto sspedi\agent.h
+	<iostream>
+	<cstdlib>
+	<string>
+	<cstdio>
+	"name.h"
+	"time.h"
+	"sllist.h"
+	"client.h"
+
+1486071327 c:\users\alfredo\desktop\universidad de guadalajara cucei\ing. computación\semestre 3\seminario de solución de problemas de estructura de datos i (1)\proyecto sspedi\name.h
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<cstdio>
+	<string>
+
+1485502078 c:\users\alfredo\desktop\universidad de guadalajara cucei\ing. computación\semestre 3\seminario de solución de problemas de estructura de datos i (1)\proyecto sspedi\time.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+
+1486848827 c:\users\alfredo\desktop\universidad de guadalajara cucei\ing. computación\semestre 3\seminario de solución de problemas de estructura de datos i (1)\proyecto sspedi\sllist.h
+	<iostream>
+	<fstream>
+	"listexception.h"
+	"proyserv.h"
+	"slnode.h"
+	"sllist.h"
+
+1486849153 c:\users\alfredo\desktop\universidad de guadalajara cucei\ing. computación\semestre 3\seminario de solución de problemas de estructura de datos i (1)\proyecto sspedi\slnode.h
+	"ProyServ.h"
+
+1486347850 c:\users\alfredo\desktop\universidad de guadalajara cucei\ing. computación\semestre 3\seminario de solución de problemas de estructura de datos i (1)\proyecto sspedi\client.h
+	<iostream>
+	<cstdlib>
+	<string>
+	<cstdio>
+	"time.h"
+
+1486071566 c:\users\alfredo\desktop\universidad de guadalajara cucei\ing. computación\semestre 3\seminario de solución de problemas de estructura de datos i (1)\proyecto sspedi\listexception.h
+	<exception>
+	<string>
+
+1486358243 source:c:\users\alfredo\desktop\universidad de guadalajara cucei\ing. computación\semestre 3\seminario de solución de problemas de estructura de datos i (1)\proyecto sspedi\agentmenu.cpp
+	"agentmenu.h"
+	"clientmenu.h"
+
+1486253302 c:\users\alfredo\desktop\universidad de guadalajara cucei\ing. computación\semestre 3\seminario de solución de problemas de estructura de datos i (1)\proyecto sspedi\agentmenu.h
+	<windows.h>
+	<string>
+	"dllist.h"
+	"agent.h"
+	"name.h"
+	"time.h"
+
+1486848827 c:\users\alfredo\desktop\universidad de guadalajara cucei\ing. computación\semestre 3\seminario de solución de problemas de estructura de datos i (1)\proyecto sspedi\dllist.h
+	<iostream>
+	<fstream>
+	"listexception.h"
+	"empleado.h"
+	"dlnode.h"
+
+1486848827 c:\users\alfredo\desktop\universidad de guadalajara cucei\ing. computación\semestre 3\seminario de solución de problemas de estructura de datos i (1)\proyecto sspedi\dlnode.h
+	"nodeexception.h"
+	"empleado.h"
+
+1486070851 c:\users\alfredo\desktop\universidad de guadalajara cucei\ing. computación\semestre 3\seminario de solución de problemas de estructura de datos i (1)\proyecto sspedi\nodeexception.h
+	<exception>
+	<string>
+
+1486359351 c:\users\alfredo\desktop\universidad de guadalajara cucei\ing. computación\semestre 3\seminario de solución de problemas de estructura de datos i (1)\proyecto sspedi\clientmenu.h
+	<windows.h>
+	<string>
+	"sllist.h"
+	"client.h"
+	"slnode.h"
+	"time.h"
+
+1486351568 source:c:\users\alfredo\desktop\universidad de guadalajara cucei\ing. computación\semestre 3\seminario de solución de problemas de estructura de datos i (1)\proyecto sspedi\client.cpp
+	"client.h"
+
+1486359516 source:c:\users\alfredo\desktop\universidad de guadalajara cucei\ing. computación\semestre 3\seminario de solución de problemas de estructura de datos i (1)\proyecto sspedi\clientmenu.cpp
+	<cstdlib>
+	<conio.h>
+	"clientmenu.h"
+
+1486883726 source:c:\users\alfredo\desktop\universidad de guadalajara cucei\ing. computación\semestre 3\seminario de solución de problemas de estructura de datos i (1)\proyecto sspedi\dllist.cpp
+	"dllist.h"
+
+1486883739 source:c:\users\alfredo\desktop\universidad de guadalajara cucei\ing. computación\semestre 3\seminario de solución de problemas de estructura de datos i (1)\proyecto sspedi\dlnode.cpp
+	"dlnode.h"
+
+1486848827 source:c:\users\alfredo\desktop\universidad de guadalajara cucei\ing. computación\semestre 3\seminario de solución de problemas de estructura de datos i (1)\proyecto sspedi\main.cpp
+	<locale>
+	"emplemenu.h"
+	"dllist.h"
+
+1486848876 source:c:\users\alfredo\desktop\universidad de guadalajara cucei\ing. computación\semestre 3\seminario de solución de problemas de estructura de datos i (1)\proyecto sspedi\slnode.cpp
+	"slnode.h"
+
+1485502075 source:c:\users\alfredo\desktop\universidad de guadalajara cucei\ing. computación\semestre 3\seminario de solución de problemas de estructura de datos i (1)\proyecto sspedi\time.cpp
+	"time.h"
+
+1486071327 source:c:\users\alfredo\desktop\universidad de guadalajara cucei\ing. computación\semestre 3\seminario de solución de problemas de estructura de datos i (1)\proyecto sspedi\name.cpp
+	"name.h"
+
+1486888014 source:c:\users\alfredo\desktop\universidad de guadalajara cucei\ing. computación\semestre 3\seminario de solución de problemas de estructura de datos i (1)\proyecto sspedi\sllist.cpp
+	"sllist.h"
+
+1486883726 source:c:\users\alfredo\desktop\proyecto sspedi\dllist.cpp
+	"dllist.h"
+
+1486848827 c:\users\alfredo\desktop\proyecto sspedi\dllist.h
+	<iostream>
+	<fstream>
+	"listexception.h"
+	"empleado.h"
+	"dlnode.h"
+
+1486071566 c:\users\alfredo\desktop\proyecto sspedi\listexception.h
+	<exception>
+	<string>
+
+1486848827 c:\users\alfredo\desktop\proyecto sspedi\dlnode.h
+	"nodeexception.h"
+	"empleado.h"
+
+1486070851 c:\users\alfredo\desktop\proyecto sspedi\nodeexception.h
+	<exception>
+	<string>
+
+1486252595 c:\users\alfredo\desktop\proyecto sspedi\agent.h
+	<iostream>
+	<cstdlib>
+	<string>
+	<cstdio>
+	"name.h"
+	"time.h"
+	"sllist.h"
+	"client.h"
+
+1486071327 c:\users\alfredo\desktop\proyecto sspedi\name.h
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<cstdio>
+	<string>
+
+1485502078 c:\users\alfredo\desktop\proyecto sspedi\time.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+
+1486848827 c:\users\alfredo\desktop\proyecto sspedi\sllist.h
+	<iostream>
+	<fstream>
+	"listexception.h"
+	"proyserv.h"
+	"slnode.h"
+	"sllist.h"
+
+1486849153 c:\users\alfredo\desktop\proyecto sspedi\slnode.h
+	"ProyServ.h"
+
+1486347850 c:\users\alfredo\desktop\proyecto sspedi\client.h
+	<iostream>
+	<cstdlib>
+	<string>
+	<cstdio>
+	"time.h"
+
+1486883739 source:c:\users\alfredo\desktop\proyecto sspedi\dlnode.cpp
+	"dlnode.h"
+
+1486848827 source:c:\users\alfredo\desktop\proyecto sspedi\main.cpp
+	<locale>
+	"emplemenu.h"
+	"dllist.h"
+
+1486253302 c:\users\alfredo\desktop\proyecto sspedi\agentmenu.h
+	<windows.h>
+	<string>
+	"dllist.h"
+	"agent.h"
+	"name.h"
+	"time.h"
+
+1486071327 source:c:\users\alfredo\desktop\proyecto sspedi\name.cpp
+	"name.h"
+
+1486888014 source:c:\users\alfredo\desktop\proyecto sspedi\sllist.cpp
+	"sllist.h"
+
+1486848876 source:c:\users\alfredo\desktop\proyecto sspedi\slnode.cpp
+	"slnode.h"
+
+1485502075 source:c:\users\alfredo\desktop\proyecto sspedi\time.cpp
+	"time.h"
+
+1486358678 source:c:\users\alfredo\desktop\proyecto sspedi\agent.cpp
+	"agent.h"
+
+1486358243 source:c:\users\alfredo\desktop\proyecto sspedi\agentmenu.cpp
+	"agentmenu.h"
+	"clientmenu.h"
+
+1486359351 c:\users\alfredo\desktop\proyecto sspedi\clientmenu.h
+	<windows.h>
+	<string>
+	"sllist.h"
+	"client.h"
+	"slnode.h"
+	"time.h"
+
+1486351568 source:c:\users\alfredo\desktop\proyecto sspedi\client.cpp
+	"client.h"
+
+1486359516 source:c:\users\alfredo\desktop\proyecto sspedi\clientmenu.cpp
+	<cstdlib>
+	<conio.h>
+	"clientmenu.h"
+
+1486883710 c:\users\alfredo\desktop\proyecto sspedi\proyserv.h
+	<iostream>
+	<cstdlib>
+	<string>
+	<cstdio>
+	"time.h"
+
+1486883826 source:c:\users\alfredo\desktop\proyecto sspedi\empleado.cpp
+	"empleado.h"
+
+1486849236 c:\users\alfredo\desktop\proyecto sspedi\empleado.h
+	<iostream>
+	<cstdlib>
+	<string>
+	<cstdio>
+	"proyserv.h"
+	"sllist.h"
+	"name.h"
+	"time.h"
+
+1486884111 source:c:\users\alfredo\desktop\proyecto sspedi\emplemenu.cpp
+	"emplemenu.h"
+	"proyservmenu.h"
+
+1486848827 c:\users\alfredo\desktop\proyecto sspedi\emplemenu.h
+	<windows.h>
+	<string>
+	"empleado.h"
+	"dllist.h"
+	"name.h"
+	"time.h"
+
+1486848827 c:\users\alfredo\desktop\proyecto sspedi\proyservmenu.h
+	<windows.h>
+	<string>
+	"proyserv.h"
+	"sllist.h"
+	"slnode.h"
+	"time.h"
+
+1486848827 source:c:\users\alfredo\desktop\proyecto sspedi\proyserv.cpp
+	"proyserv.h"
+
+1486848827 source:c:\users\alfredo\desktop\proyecto sspedi\proyservmenu.cpp
+	<cstdlib>
+	<conio.h>
+	"proyservmenu.h"
+
+1486849236 c:\users\alfredo\desktop\universidad de guadalajara cucei\ing. computación\semestre 3\seminario de solución de problemas de estructura de datos i (1)\proyecto sspedi\empleado.h
+	<iostream>
+	<cstdlib>
+	<string>
+	<cstdio>
+	"proyserv.h"
+	"sllist.h"
+	"name.h"
+	"time.h"
+
+1486883710 c:\users\alfredo\desktop\universidad de guadalajara cucei\ing. computación\semestre 3\seminario de solución de problemas de estructura de datos i (1)\proyecto sspedi\proyserv.h
+	<iostream>
+	<cstdlib>
+	<string>
+	<cstdio>
+	"time.h"
+
+1486883826 source:c:\users\alfredo\desktop\universidad de guadalajara cucei\ing. computación\semestre 3\seminario de solución de problemas de estructura de datos i (1)\proyecto sspedi\empleado.cpp
+	"empleado.h"
+
+1486884111 source:c:\users\alfredo\desktop\universidad de guadalajara cucei\ing. computación\semestre 3\seminario de solución de problemas de estructura de datos i (1)\proyecto sspedi\emplemenu.cpp
+	"emplemenu.h"
+	"proyservmenu.h"
+
+1486848827 c:\users\alfredo\desktop\universidad de guadalajara cucei\ing. computación\semestre 3\seminario de solución de problemas de estructura de datos i (1)\proyecto sspedi\emplemenu.h
+	<windows.h>
+	<string>
+	"empleado.h"
+	"dllist.h"
+	"name.h"
+	"time.h"
+
+1486848827 c:\users\alfredo\desktop\universidad de guadalajara cucei\ing. computación\semestre 3\seminario de solución de problemas de estructura de datos i (1)\proyecto sspedi\proyservmenu.h
+	<windows.h>
+	<string>
+	"proyserv.h"
+	"sllist.h"
+	"slnode.h"
+	"time.h"
+
+1486848827 source:c:\users\alfredo\desktop\universidad de guadalajara cucei\ing. computación\semestre 3\seminario de solución de problemas de estructura de datos i (1)\proyecto sspedi\proyserv.cpp
+	"proyserv.h"
+
+1487002972 source:c:\users\alfredo\desktop\universidad de guadalajara cucei\ing. computación\semestre 3\seminario de solución de problemas de estructura de datos i (1)\proyecto sspedi\proyservmenu.cpp
+	<cstdlib>
+	<conio.h>
+	"proyservmenu.h"
+
